@@ -11,26 +11,19 @@ Hi, I'm Eden Xu, a passionate full-stack web developer who wants to become an ex
 
 I also want to be an excellent open-source contributor, I have learned a lot from the open-source community and want to give back to open-source with my knowledge and experience. If you like what I do, please don't hesitate to give me a star.
 
-- 💬 Ask me about anything, I am happy to help, [email](mailto:edenx97@gmail.com);
+- 💬 Ask me about anything, I am happy to help, [email](mailto:edenx97@gmail.com)
 
 ### 🔨 What languages I use  
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"/>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 ### 📊 What I do this week
 <!--START_SECTION:waka-->
-
-```text
-TypeScript   18 hrs 10 mins  ███████████████████████▒░   93.04 %
-JavaScript   1 hr 13 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
-Bash         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-```
 
 <!--END_SECTION:waka-->
 
@@ -43,10 +36,8 @@ If you like my projects, maybe consider buying me a coffee 🥺
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdenX-97)](https://github.com/anuraghazra/github-readme-stats)
 
-### 😜 Get a joke
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
 ### Thanks to
+- [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) to provide so nice README templates
 
-- [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) to provide so nice readme templates
+### 😜 Get a joke
+![Jokes Card](https://readme-jokes.vercel.app/api)
