@@ -3,8 +3,9 @@
   <img align="left" alt="Eden's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=EdenX-97.EdenX-97)
+<br />
 
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=EdenX-97.EdenX-97) -->
 <br />
 
 Hi, I'm Eden Xu, a passionate full-stack web developer who wants to become an excellent software engineer. Providing high-quality code and exciting projects is my goal.
