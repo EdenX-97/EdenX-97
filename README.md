@@ -1,4 +1,4 @@
-### Hi there
+## Hi there
 <a href="https://www.linkedin.com/in/moxu97/">
   <img align="left" alt="Eden's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -14,7 +14,7 @@ I also want to be an excellent open-source contributor, I have learned a lot fro
 
 - 💬 Ask me about anything, I am happy to help, [email](mailto:edenx97@gmail.com)
 
-### 🔨 What languages I use  
+## 🔨 What languages I use  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -23,7 +23,7 @@ I also want to be an excellent open-source contributor, I have learned a lot fro
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
-### 📊 What I do this week
+## 📊 What I do this week
 <!--START_SECTION:waka-->
 
 ```text
@@ -36,17 +36,17 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-### ☕ Buy me a coffee
+## ☕ Buy me a coffee
 If you like my projects, maybe consider buying me a coffee 🥺
 
 <a href="https://www.buymeacoffee.com/edenxu97" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
-### 📈 My github stats
+## 📈 My github stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdenX-97)](https://github.com/anuraghazra/github-readme-stats)
 
-### Thanks to
+## 🙏 Thanks to
 - [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) to provide so nice README templates
 
-### 😜 Get a joke
+## 😜 Get a joke
 ![Jokes Card](https://readme-jokes.vercel.app/api)
