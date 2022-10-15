@@ -45,6 +45,3 @@ If you like my projects, maybe consider buying me a coffee 🥺
 ## 📈 My github stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdenX-97)](https://github.com/anuraghazra/github-readme-stats)
-
-## 😜 Get a joke
-![Jokes Card](https://readme-jokes.vercel.app/api)
