@@ -27,12 +27,12 @@ I also want to be an excellent open-source contributor, I have learned a lot fro
 <!--START_SECTION:waka-->
 
 ```text
-Java           7 hrs 23 mins   ███████▒░░░░░░░░░░░░░░░░░   28.71 %
-TypeScript     7 hrs 21 mins   ███████░░░░░░░░░░░░░░░░░░   28.57 %
-TeX            3 hrs 17 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.75 %
-Vue.js         3 hrs 7 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.11 %
-Markdown       1 hr 55 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
-JSON           51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+Java           7 hrs 31 mins   ████████▓░░░░░░░░░░░░░░░░   34.06 %
+TypeScript     6 hrs 48 mins   ███████▓░░░░░░░░░░░░░░░░░   30.83 %
+TeX            2 hrs 33 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.61 %
+Markdown       1 hr 47 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 %
+Vue.js         1 hr 21 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
+JSON           54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
 ```
 
 <!--END_SECTION:waka-->
