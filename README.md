@@ -27,12 +27,8 @@ I also want to be an excellent open-source contributor, I have learned a lot fro
 <!--START_SECTION:waka-->
 
 ```text
-OpenEdge ABL   7 mins          ███████▒░░░░░░░░░░░░░░░░░   29.69 %
-Java           6 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.30 %
-TypeScript     5 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.78 %
-TeX            4 mins          █████░░░░░░░░░░░░░░░░░░░░   19.87 %
-Markdown       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
-XML            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+Java       6 mins          ██████████████████████▒░░   89.99 %
+Markdown   0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.01 %
 ```
 
 <!--END_SECTION:waka-->
