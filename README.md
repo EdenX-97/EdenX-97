@@ -27,8 +27,7 @@ I also want to be an excellent open-source contributor, I have learned a lot fro
 <!--START_SECTION:waka-->
 
 ```text
-Java       6 mins          ██████████████████████▒░░   89.99 %
-Markdown   0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
