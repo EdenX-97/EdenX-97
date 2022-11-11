@@ -27,7 +27,8 @@ I also want to be an excellent open-source contributor, I have learned a lot fro
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js   5 mins          █████████████████████████   100.00 %
+Vue.js   5 mins          █████████████████████████   99.88 %
+Java     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
