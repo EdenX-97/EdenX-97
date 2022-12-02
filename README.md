@@ -27,12 +27,10 @@ I also want to be an excellent open-source contributor, I have learned a lot fro
 <!--START_SECTION:waka-->
 
 ```text
-Java           10 hrs 55 mins  ███████████████████████░░   92.63 %
-XML            24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
-Markdown       18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
-Bash           5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
-Shell Script   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
-CLASS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Java           3 hrs 9 mins    ███████████████████████░░   92.03 %
+Markdown       7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
+Bash           5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+Shell Script   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
 ```
 
 <!--END_SECTION:waka-->
