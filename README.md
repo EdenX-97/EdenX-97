@@ -27,7 +27,10 @@ I also want to be an excellent open-source contributor, I have learned a lot fro
 <!--START_SECTION:waka-->
 
 ```text
-Java   2 mins          █████████████████████████   100.00 %
+Java       2 mins          ███████▒░░░░░░░░░░░░░░░░░   29.45 %
+Markdown   2 mins          ███████░░░░░░░░░░░░░░░░░░   28.09 %
+YAML       2 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.29 %
+JSON       1 min           ████░░░░░░░░░░░░░░░░░░░░░   16.17 %
 ```
 
 <!--END_SECTION:waka-->
