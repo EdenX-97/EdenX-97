@@ -27,8 +27,8 @@ I also want to be an excellent open-source contributor, I have learned a lot fro
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   1 hr 31 mins    █████████████████▓░░░░░░░   71.25 %
-JSON         36 mins         ███████▒░░░░░░░░░░░░░░░░░   28.75 %
+JSON         13 mins         ███████████████████▓░░░░░   78.32 %
+TypeScript   3 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.68 %
 ```
 
 <!--END_SECTION:waka-->
