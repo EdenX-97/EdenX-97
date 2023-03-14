@@ -27,9 +27,9 @@ I also want to be an excellent open-source contributor, I have learned a lot fro
 <!--START_SECTION:waka-->
 
 ```text
-Swift        55 mins         █████████████████▓░░░░░░░   70.41 %
-TypeScript   18 mins         ██████░░░░░░░░░░░░░░░░░░░   23.87 %
-Other        3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
+Swift        2 hrs 42 mins   ██████████████████████░░░   87.45 %
+TypeScript   18 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.12 %
+Other        3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
 ```
 
 <!--END_SECTION:waka-->
