@@ -27,12 +27,12 @@ I also want to be an excellent open-source contributor, I have learned a lot fro
 <!--START_SECTION:waka-->
 
 ```text
-Python       17 hrs 59 mins  ███████████████████▓░░░░░   78.32 %
-Swift        2 hrs 15 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.81 %
-JSON         1 hr 56 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
-Java         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
-Git Config   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-TOML         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+Python       22 hrs 37 mins  █████████████████████▓░░░   86.33 %
+JSON         2 hrs 9 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 %
+TOML         44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+Java         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+Git Config   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+Text         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
