@@ -27,7 +27,9 @@ I also want to be an excellent open-source contributor, I have learned a lot fro
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Text     5 mins          ████████░░░░░░░░░░░░░░░░░   31.36 %
+JSON     5 mins          ███████▓░░░░░░░░░░░░░░░░░   30.45 %
+Other    3 mins          █████░░░░░░░░░░░░░░░░░░░░   19.58 %
 ```
 
 <!--END_SECTION:waka-->
