@@ -27,9 +27,10 @@ I also want to be an excellent open-source contributor, I have learned a lot fro
 <!--START_SECTION:waka-->
 
 ```text
-Text     5 mins          ████████░░░░░░░░░░░░░░░░░   31.36 %
-JSON     5 mins          ███████▓░░░░░░░░░░░░░░░░░   30.45 %
-Other    3 mins          █████░░░░░░░░░░░░░░░░░░░░   19.58 %
+Python       1 hr 20 mins    ████████████████████░░░░░   80.37 %
+Text         9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.96 %
+JSON         5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
+Other        3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
 ```
 
 <!--END_SECTION:waka-->
