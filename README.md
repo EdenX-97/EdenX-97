@@ -26,7 +26,7 @@ I also want to be an excellent open-source contributor, I have learned a lot fro
 ## 📊 What I do this week
 <!--START_SECTION:waka-->
 
-```text
+```txt
 TeX   1 hr 59 mins    █████████████████████████   100.00 %
 ```
 
