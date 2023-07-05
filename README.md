@@ -27,7 +27,8 @@ I also want to be an excellent open-source contributor, I have learned a lot fro
 <!--START_SECTION:waka-->
 
 ```txt
-TeX   11 mins         █████████████████████████   100.00 %
+TeX   14 mins         ██████████████░░░░░░░░░░░   56.47 %
+CSS   10 mins         ███████████░░░░░░░░░░░░░░   43.53 %
 ```
 
 <!--END_SECTION:waka-->
