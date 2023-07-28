@@ -27,8 +27,7 @@ I also want to be an excellent open-source contributor, I have learned a lot fro
 <!--START_SECTION:waka-->
 
 ```txt
-Other   14 mins         █████████████████████████   99.88 %
-Text    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Other   14 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
