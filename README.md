@@ -27,10 +27,10 @@ I also want to be an excellent open-source contributor, I have learned a lot fro
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   1 hr 51 mins    █████████████░░░░░░░░░░░░   51.34 %
-TeX          1 hr 24 mins    █████████▓░░░░░░░░░░░░░░░   39.01 %
-JSON         12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
-CSS          7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
+JavaScript   1 hr 51 mins    ███████████████▓░░░░░░░░░   62.09 %
+TeX          47 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.23 %
+JSON         12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 %
+CSS          7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
 Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
