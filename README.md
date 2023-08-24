@@ -27,11 +27,11 @@ I also want to be an excellent open-source contributor, I have learned a lot fro
 <!--START_SECTION:waka-->
 
 ```txt
-Python         2 hrs 49 mins   ██████████▒░░░░░░░░░░░░░░   40.82 %
-JavaScript     1 hr 35 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.91 %
-JSON           59 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.36 %
-TeX            49 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.90 %
-Markdown       13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
+JavaScript     3 hrs 18 mins   █████████▓░░░░░░░░░░░░░░░   38.06 %
+Python         2 hrs 49 mins   ████████░░░░░░░░░░░░░░░░░   32.57 %
+JSON           1 hr 2 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.90 %
+TeX            49 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.49 %
+Markdown       13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
 ```
 
 <!--END_SECTION:waka-->
