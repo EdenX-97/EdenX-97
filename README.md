@@ -27,11 +27,11 @@ I also want to be an excellent open-source contributor, I have learned a lot fro
 <!--START_SECTION:waka-->
 
 ```txt
-JSON         17 mins         ████████████████▓░░░░░░░░   66.21 %
-Bash         8 mins          ████████░░░░░░░░░░░░░░░░░   31.96 %
-TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+JSON         17 mins         ████████████▒░░░░░░░░░░░░   49.49 %
+TypeScript   9 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.08 %
+Bash         8 mins          ██████░░░░░░░░░░░░░░░░░░░   23.89 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
